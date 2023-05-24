@@ -1,1 +1,1 @@
-# Student-Detail-Rset_api
+# Student-Detail-Rest_api
